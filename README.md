@@ -15,4 +15,4 @@ JavaScript, HTML, CSS, Handlebars, Json
 
 # Deployed App: https://money-m.herokuapp.com/
 # Screenshot
-![Screenshot](public\assets\images\icons\Graph.png)
+
