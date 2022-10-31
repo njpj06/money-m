@@ -2,16 +2,9 @@
 
 # Description
 
-Money Manager is a progressive web application that allows users to track their money by adding expenses and deposits to their budget through the "Add/Subtract Funds" buttons. Users are able to add and subtract transaction with or without internet connection. When a user enters a transaction while offline, these transactions are stored in the indexedDB, and transferred to the database when the user comes back online.
-
+Money Manager is a project that was created by Nicholas Peribelo and Gabrielle Birge. This is a budget tool made to help you manage and track your money.
 Installation
-
-To install the required dependencies, run `npm install
+'npm install' to run program with necessary dependencies.
 
 # Deployed App: https://money-m.herokuapp.com/
-
-# Questions
-
-If you have any questions about the repo, open an issue or contact [Nicholas Paribello] directly at njpj@ymail.com.
-
 # Screenshot
