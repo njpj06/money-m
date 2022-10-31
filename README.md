@@ -8,11 +8,8 @@ Money Manager is a project that was created by Nicholas Peribelo and Gabrielle B
 Installation
 'npm install' to run program with necessary dependencies.
 </p>
-<p>
-software used:
-JavaScript, HTML, CSS, Handlebars, Json
-</p>
 
 # Deployed App: https://money-m.herokuapp.com/
 # Screenshot
+<img src="public\assets\images\icons\Graph.png"></img>
 
