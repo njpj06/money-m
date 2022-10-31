@@ -1,0 +1,32 @@
+{
+  "name": "budget-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njpj06/money-m"
+  },
+  "author": "Nicholas Paribello <njpj@ymail.com> (https://github.com/njpj06/money-m)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/njpj06/money-m"
+  },
+  "homepage": "https://github.com/njpj06/money-m",
+  "dependencies": {
+    "chart.js": "^3.9.1",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "handlebars": "^4.7.7",
+    "mongoose": "^5.5.15",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
