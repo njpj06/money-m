@@ -10,9 +10,9 @@ Installation
 </p>
 <p>
 software used:
-JavaScript, HTML, CSS, Handlebars, Json, 
+JavaScript, HTML, CSS, Handlebars, Json
 </p>
 
 # Deployed App: https://money-m.herokuapp.com/
 # Screenshot
-![Screenshot](images\icons/graph.png)
+![Screenshot](public\assets\images\icons\Graph.png)
