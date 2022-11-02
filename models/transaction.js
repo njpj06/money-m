@@ -6,7 +6,7 @@ const transactionSchema = new Schema({
   name: {
     type: String,
     trim: true,
-    required: "Transactions Name",
+    required: "Name of Transactions",
   },
   value: {
     type: Number,
